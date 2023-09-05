@@ -9,3 +9,5 @@ npm install (Instalar as dependencias)<br />
 npm install yarn -g (instalar yarn global)<br />
 npm i vite (instalar vite)<br />
 npm run dev (start no projeto)<br />
+
+Arquivo em .zip, pois conforme demonstrado em sala de aula houve problema com Github ao realizar commit.<br />
