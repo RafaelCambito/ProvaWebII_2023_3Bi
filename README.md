@@ -1,4 +1,4 @@
-Prova realizada na disciplina de Programação Web II do curso de TADS - IFPR Cascavel<br />
+Prova realizada na disciplina de Programação Web II do curso de TADS - IFPR Cascavel / Professor: Fernando Alves <br />
 Seguir template repassado em sala de aula para montar o projeto usando VITE + REACT + TYPESCRIPT<br />
 
 HEADER + BOARD + ORDERBORD(ITENS) + FOOTER<br />
