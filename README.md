@@ -11,3 +11,4 @@ npm i vite (instalar vite)<br />
 npm run dev (start no projeto)<br />
 
 OBS: Arquivo em .zip, pois conforme demonstrado em sala de aula houve problema com Github ao realizar commit.<br />
+OBS2: Novo diretório com Footer concluído em: https://github.com/RafaelCambito/ProvaWebII_2023_3Bi_new.git
